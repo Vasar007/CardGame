@@ -21,5 +21,5 @@ This project needs in SFML v2.4 and C++11.
 
 ## License information
 
-This project is licensed under the terms of the [MIT License](LICENSE).
+This project is licensed under the terms of the [MIT License](LICENSE).\
 SFML is licensed under the terms of the [zlib/png license](https://www.sfml-dev.org/license.php).
