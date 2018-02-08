@@ -5,7 +5,7 @@ Simple card game which similar to Spider Solitaire.
 
 | Main menu                                                        |
 |------------------------------------------------------------------|
-| ![Main menu of the game](Media/1.Main_menu.png "Main menu") |
+| ![Main menu of the game](Media/1.Main_menu.png "Main menu")      |
 
 | In game                                                          |
 |------------------------------------------------------------------|
