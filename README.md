@@ -1,5 +1,5 @@
 # CardGame
-Simple card game which similar to Spider Solitaire
+Simple card game which similar to Spider Solitaire.
 
 ## Screenshots
 
